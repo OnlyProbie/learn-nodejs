@@ -19,7 +19,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         children: [
           {
             text: '快速开始',
-            link: '/quick-start/',
+            // link: '/quick-start/',
             children: [
               {
                 text: 'NodeJS 简介',
@@ -33,7 +33,17 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
           {
             text: '入门',
-            link: '/getting-start/'
+            // link: '/getting-start/'
+            children: [
+              {
+                text: 'NodeJS 简介',
+                link: '/quick-start/Introduction-to-Node.js.md'
+              },
+              {
+                text: 'NodeJS 简史',
+                link: '/quick-start/A-brief-history-of-Node.js.md'
+              }
+            ]
           },
         ]
       }
