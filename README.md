@@ -1,3 +1,3 @@
-# learn-nodejs
+# 学习NodeJS
 
-https://nodejs.dev/learn 中文版
+英文版：https://nodejs.dev/learn
