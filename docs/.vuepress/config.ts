@@ -11,7 +11,12 @@ export default defineUserConfig<DefaultThemeOptions>({
     repo: 'https://github.com/OnlyProbie/learn-nodejs',
     editLink: false,
     contributors: false,
-    navbar: [], // 导航栏配置
+    navbar: [
+      {
+        text: 'Blog',
+        link: 'https://blog.archerk.com.cn/'
+      }
+    ], // 导航栏配置
     sidebar: [ // 侧边栏配置
       {
         text: 'NodeJS 中文教程',
