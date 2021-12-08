@@ -59,6 +59,34 @@ export default defineUserConfig<DefaultThemeOptions>({
                 text: 'V8 JavaScript 引擎',
                 link: '/getting-start/1.The-v8-javascript-engine.md'
               },
+              {
+                text: '在命令行运行 Node.js 脚本',
+                link: '/getting-start/2.Run-Node.js-scripts-from-the-command-line.md'
+              },
+              {
+                text: '如何退出 Node.js 程序',
+                link: '/getting-start/3.How-to-exit-from-a-Node.js-program.md'
+              },
+              {
+                text: '如何从 Node.js 读取环境变量',
+                link: '/getting-start/4.How-to-read-environment-variables-from-Node.js.md'
+              },
+              {
+                text: '如何使用 Node.js REPL',
+                link: '/getting-start/5.How-to-use-the-Node.js-REPL.md'
+              },
+              // {
+              //   text: 'V8 JavaScript 引擎',
+              //   link: '/getting-start/1.The-v8-javascript-engine.md'
+              // },
+              // {
+              //   text: 'V8 JavaScript 引擎',
+              //   link: '/getting-start/1.The-v8-javascript-engine.md'
+              // },
+              // {
+              //   text: 'V8 JavaScript 引擎',
+              //   link: '/getting-start/1.The-v8-javascript-engine.md'
+              // },
 
               // Differences-between-Node.js-and-the-Browser
             ]
