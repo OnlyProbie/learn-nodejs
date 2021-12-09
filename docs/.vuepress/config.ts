@@ -3,7 +3,7 @@ import type { DefaultThemeOptions } from 'vuepress'
 
 export default defineUserConfig<DefaultThemeOptions>({
   lang: 'zh-CN',
-  title: 'NodeJS中文教程',
+  title: 'NodeJS 教程中文版',
   description: '',
   base: '/learn-nodejs/',
   head: [
@@ -22,7 +22,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     ], // 导航栏配置
     sidebar: [ // 侧边栏配置
       {
-        text: 'NodeJS 中文教程',
+        text: 'NodeJS 教程中文版',
         link: '/',
         children: [
           {
