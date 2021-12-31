@@ -75,10 +75,10 @@ export default defineUserConfig<DefaultThemeOptions>({
                 text: '如何使用 Node.js REPL',
                 link: '/getting-start/5.How-to-use-the-Node.js-REPL.md'
               },
-              // {
-              //   text: 'V8 JavaScript 引擎',
-              //   link: '/getting-start/1.The-v8-javascript-engine.md'
-              // },
+              {
+                text: '从命令行接收参数',
+                link: '/getting-start/6.Node.js-accept-arguments-from-the-command-line.md'
+              },
               // {
               //   text: 'V8 JavaScript 引擎',
               //   link: '/getting-start/1.The-v8-javascript-engine.md'
