@@ -1,0 +1,1 @@
+const t={key:"v-70675643",path:"/getting-start/24.Understanding-process.nextTick().html",title:"\u7406\u89E3 process.nextTick()",lang:"zh-CN",frontmatter:{title:"\u7406\u89E3 process.nextTick()"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/24.Understanding-process.nextTick().md"};export{t as data};

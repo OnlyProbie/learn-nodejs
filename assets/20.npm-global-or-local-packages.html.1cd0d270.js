@@ -1,0 +1,1 @@
+const t={key:"v-339011f2",path:"/getting-start/20.npm-global-or-local-packages.html",title:"npm \u5168\u5C40\u6216\u672C\u5730\u5305",lang:"zh-CN",frontmatter:{title:"npm \u5168\u5C40\u6216\u672C\u5730\u5305"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/20.npm-global-or-local-packages.md"};export{t as data};

@@ -1,0 +1,1 @@
+const t={key:"v-f4066718",path:"/getting-start/19.Uninstalling-npm-packages.html",title:"\u5378\u8F7D npm \u5305",lang:"zh-CN",frontmatter:{title:"\u5378\u8F7D npm \u5305"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/19.Uninstalling-npm-packages.md"};export{t as data};

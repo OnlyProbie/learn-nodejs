@@ -1,0 +1,1 @@
+const e={key:"v-ff3625a8",path:"/getting-start/52.Node.js-with-WebAssembly.html",title:"Node.js \u4E2D\u4F7F\u7528 WebAssembly",lang:"zh-CN",frontmatter:{title:"Node.js \u4E2D\u4F7F\u7528 WebAssembly"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/52.Node.js-with-WebAssembly.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-19839dda",path:"/getting-start/47.Node.js-Streams.html",title:"Node.js \u6D41",lang:"zh-CN",frontmatter:{title:"Node.js \u6D41"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/47.Node.js-Streams.md"};export{t as data};

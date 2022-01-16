@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.33">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <link rel="icon" href="https://nodejs.org/static/images/favicons/favicon.ico"><title>NodeJS 教程中文版</title><meta name="description" content="">
+    <link rel="modulepreload" href="/learn-nodejs/assets/app.6c8a6d5d.js"><link rel="modulepreload" href="/learn-nodejs/assets/404.html.bee13de6.js"><link rel="modulepreload" href="/learn-nodejs/assets/plugin-vue_export-helper.21dcd24c.js"><link rel="modulepreload" href="/learn-nodejs/assets/404.html.93146c89.js">
+    <link rel="stylesheet" href="/learn-nodejs/assets/style.a4c38ec3.css">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><div class="theme-default-content"><h1>404</h1><blockquote>That&#39;s a Four-Oh-Four.</blockquote><a href="/learn-nodejs/" class="">Take me home</a></div></div><!----><!--]--></div>
+    <script type="module" src="/learn-nodejs/assets/app.6c8a6d5d.js" defer></script>
+  </body>
+</html>

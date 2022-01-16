@@ -1,0 +1,1 @@
+const t={key:"v-6ded97fb",path:"/getting-start/46.Node.js-Buffers.html",title:"Node.js \u7F13\u51B2\u533A",lang:"zh-CN",frontmatter:{title:"Node.js \u7F13\u51B2\u533A"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/46.Node.js-Buffers.md"};export{t as data};

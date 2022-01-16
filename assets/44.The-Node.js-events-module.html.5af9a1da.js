@@ -1,0 +1,1 @@
+const e={key:"v-08bdd0e8",path:"/getting-start/44.The-Node.js-events-module.html",title:"Node.js \u4E8B\u4EF6\u6A21\u5757",lang:"zh-CN",frontmatter:{title:"Node.js \u4E8B\u4EF6\u6A21\u5757"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/44.The-Node.js-events-module.md"};export{e as data};

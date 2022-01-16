@@ -1,0 +1,1 @@
+const t={key:"v-113294e3",path:"/getting-start/49.Error-handling-in-Node.js.html",title:"Node.js \u4E2D\u7684\u9519\u8BEF\u5904\u7406",lang:"zh-CN",frontmatter:{title:"Node.js \u4E2D\u7684\u9519\u8BEF\u5904\u7406"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/49.Error-handling-in-Node.js.md"};export{t as data};

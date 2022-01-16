@@ -1,0 +1,1 @@
+const e={key:"v-14133933",path:"/getting-start/21.npm-dependencies-and-devDependencies.html",title:"npm dependencies \u548C devDependencies",lang:"zh-CN",frontmatter:{title:"npm dependencies \u548C devDependencies"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/21.npm-dependencies-and-devDependencies.md"};export{e as data};

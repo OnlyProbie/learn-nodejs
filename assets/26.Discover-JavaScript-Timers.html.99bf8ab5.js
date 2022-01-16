@@ -1,0 +1,1 @@
+const t={key:"v-69adbf58",path:"/getting-start/26.Discover-JavaScript-Timers.html",title:"\u53D1\u73B0 JavaScript \u8BA1\u65F6\u5668",lang:"zh-CN",frontmatter:{title:"\u53D1\u73B0 JavaScript \u8BA1\u65F6\u5668"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/26.Discover-JavaScript-Timers.md"};export{t as data};

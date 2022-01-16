@@ -1,0 +1,1 @@
+const t={key:"v-7d080b7a",path:"/getting-start/38.Reading-files-with-Node.js.html",title:"\u4F7F\u7528 Node.js \u8BFB\u53D6\u6587\u4EF6",lang:"zh-CN",frontmatter:{title:"\u4F7F\u7528 Node.js \u8BFB\u53D6\u6587\u4EF6"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/38.Reading-files-with-Node.js.md"};export{t as data};

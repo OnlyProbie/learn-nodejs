@@ -1,0 +1,1 @@
+const t={key:"v-0b360f11",path:"/getting-start/31.Build-an-HTTP-Server.html",title:"\u6784\u5EFA\u4E00\u4E2A HTTP \u670D\u52A1\u5668",lang:"zh-CN",frontmatter:{title:"\u6784\u5EFA\u4E00\u4E2A HTTP \u670D\u52A1\u5668"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/31.Build-an-HTTP-Server.md"};export{t as data};

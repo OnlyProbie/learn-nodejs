@@ -1,0 +1,1 @@
+const t={key:"v-787ffc6a",path:"/getting-start/39.Writing-files-with-Node.js.html",title:"\u4F7F\u7528 Node.js \u7F16\u5199\u6587\u4EF6",lang:"zh-CN",frontmatter:{title:"\u4F7F\u7528 Node.js \u7F16\u5199\u6587\u4EF6"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/39.Writing-files-with-Node.js.md"};export{t as data};

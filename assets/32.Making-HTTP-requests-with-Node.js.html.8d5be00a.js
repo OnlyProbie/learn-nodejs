@@ -1,0 +1,1 @@
+const t={key:"v-850bc6f6",path:"/getting-start/32.Making-HTTP-requests-with-Node.js.html",title:"\u4F7F\u7528 Node.js \u53D1\u51FA HTTP \u8BF7\u6C42",lang:"zh-CN",frontmatter:{title:"\u4F7F\u7528 Node.js \u53D1\u51FA HTTP \u8BF7\u6C42"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/32.Making-HTTP-requests-with-Node.js.md"};export{t as data};

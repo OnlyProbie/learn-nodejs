@@ -1,0 +1,1 @@
+const t={key:"v-4c6985f8",path:"/getting-start/43.The-Node.js-os-module.html",title:"Node.js \u64CD\u4F5C\u7CFB\u7EDF\u6A21\u5757",lang:"zh-CN",frontmatter:{title:"Node.js \u64CD\u4F5C\u7CFB\u7EDF\u6A21\u5757"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/43.The-Node.js-os-module.md"};export{t as data};

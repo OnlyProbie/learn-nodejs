@@ -1,0 +1,1 @@
+const e={key:"v-6eed9221",path:"/getting-start/13.The-package.json-guide.html",title:"package.json \u6307\u5357",lang:"zh-CN",frontmatter:{title:"package.json \u6307\u5357"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/13.The-package.json-guide.md"};export{e as data};

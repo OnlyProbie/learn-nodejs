@@ -1,0 +1,1 @@
+const t={key:"v-4508f323",path:"/getting-start/28.Understanding-JavaScript-Promises.html",title:"\u7406\u89E3 JavaScript Promise",lang:"zh-CN",frontmatter:{title:"\u7406\u89E3 JavaScript Promise"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/28.Understanding-JavaScript-Promises.md"};export{t as data};

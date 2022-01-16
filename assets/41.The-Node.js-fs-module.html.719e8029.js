@@ -1,0 +1,1 @@
+const t={key:"v-79fb60a3",path:"/getting-start/41.The-Node.js-fs-module.html",title:"Node.js fs \u6A21\u5757",lang:"zh-CN",frontmatter:{title:"Node.js fs \u6A21\u5757"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/41.The-Node.js-fs-module.md"};export{t as data};

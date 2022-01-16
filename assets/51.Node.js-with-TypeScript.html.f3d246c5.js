@@ -1,0 +1,1 @@
+const t={key:"v-6db7c6b0",path:"/getting-start/51.Node.js-with-TypeScript.html",title:"Node.js \u4E2D\u4F7F\u7528 TypeScript",lang:"zh-CN",frontmatter:{title:"Node.js \u4E2D\u4F7F\u7528 TypeScript"},excerpt:"",headers:[],git:{updatedTime:1641118959e3},filePathRelative:"getting-start/51.Node.js-with-TypeScript.md"};export{t as data};

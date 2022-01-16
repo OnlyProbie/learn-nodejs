@@ -1,0 +1,1 @@
+const t={key:"v-45124078",path:"/getting-start/3.How-to-exit-from-a-Node.js-program.html",title:"\u5982\u4F55\u9000\u51FA Node.js \u7A0B\u5E8F",lang:"zh-CN",frontmatter:{title:"\u5982\u4F55\u9000\u51FA Node.js \u7A0B\u5E8F"},excerpt:"",headers:[],git:{updatedTime:1638973604e3},filePathRelative:"getting-start/3.How-to-exit-from-a-Node.js-program.md"};export{t as data};
